@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "edtech"
+  "defaultProject": "edtech",
+  "cli": {
+    "analytics": false
+  }
 }
